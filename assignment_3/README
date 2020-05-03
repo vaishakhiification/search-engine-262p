@@ -1,0 +1,17 @@
+For week 3 assigment:
+You should be in the directory ~/262p/assignment_3
+
+To go to the folder run the following command:
+cd assignment_3/
+
+
+For each file: Eleven.java, Tweleve.java, Thirteen.java do the following:
+Consider abc to be the name of the file in consideration.
+To compile and run abc.java run the following commands:
+
+javac abc.java
+java abc ../pride-and-prejudice.txt
+
+Check Output
+
+

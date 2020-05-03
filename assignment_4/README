@@ -1,0 +1,17 @@
+For week 4 assigment:
+You should be in the directory ~/262p/assignment_4
+
+To go to the folder run the following command:
+cd assignment_4/
+
+
+For each file: Eight.java, Nine.java do the following:
+Consider abc to be the name of the file in consideration.
+To compile and run abc.java run the following commands:
+
+javac abc.java
+java abc ../pride-and-prejudice.txt
+
+Check Output
+
+

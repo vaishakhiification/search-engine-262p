@@ -1,0 +1,16 @@
+You should be in the directory ~/262p/assignment_2
+
+To go to the folder run the following command:
+cd assignment_2/
+
+Then to compile and run Four.java run the following commands:
+
+javac Four.java
+java Four ../pride-and-prejudice.txt
+
+Similarly to compile and run Five.java run the following commands:
+
+javac Five.java
+java Five ../pride-and-prejudice.txt
+
+

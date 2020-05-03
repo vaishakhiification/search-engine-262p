@@ -1,0 +1,17 @@
+Last modified 02 Apr 2020
+Instructions for repl.it
+---------------------
+You should be in the directory ~/262p/ (or /home/$USER/262p/, $USER is "runner" at the time this is written)
+cd assignment_1/
+javac Main.java
+java Main ../pride-and-prejudice.txt
+
+You may perform this sequence of steps with either the default Java prompt on the right of the screen or by pressing Ctrl/Cmd + Shift + S and using the terminal that subsequently pops up.
+
+
+
+Week 1 assignment is under assignment_1
+Weel 2 assignment is under assignment_2
+Week 3 assignment is under assignment_3
+Weel 4 assignment is under assignment_4
+
